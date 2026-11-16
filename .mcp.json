@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quran-encyclopedia": {
+      "type": "http",
+      "url": "https://mcp.kitab-allah.org/mcp"
+    }
+  }
+}

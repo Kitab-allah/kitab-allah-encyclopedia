@@ -1,0 +1,14 @@
+{
+  "name": "kitab-allah",
+  "owner": {
+    "name": "Ghiath AL SAMMANE",
+    "url": "https://sammane.com"
+  },
+  "plugins": [
+    {
+      "name": "kitab-allah-encyclopedia",
+      "source": "./",
+      "description": "The Encyclopedia of the Great Quran (kitab-allah.org) connector and its usage skill: the author's meanings of Quranic words, his works, roots with classical lexicons, verified verses."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "kitab-allah-encyclopedia",
+  "displayName": "Encyclopedia of the Great Quran",
+  "version": "1.0.0",
+  "description": "Connects Claude to the Encyclopedia of the Great Quran (kitab-allah.org), from the works of Dr. Ratib Al-Samman: the author's lexical entries on Quranic words, his topics encyclopedia and works, the roots of the Quran with classical lexicons, and a skill that teaches Claude to cite them exactly and keep the author, the lexicons, the corpus data and its own words apart.",
+  "author": {
+    "name": "Ghiath AL SAMMANE",
+    "url": "https://sammane.com"
+  },
+  "homepage": "https://www.kitab-allah.org",
+  "license": "AGPL-3.0-only",
+  "keywords": ["quran", "arabic", "lexicon", "roots", "encyclopedia", "reference"],
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://mcp.kitab-allah.org/",
+  "supportUrl": "https://sammane.com",
+  "privacyPolicyUrl": "https://mcp.kitab-allah.org/privacy"
+}
